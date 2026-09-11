@@ -1,0 +1,35 @@
+{
+  "source_organization": "Geological Survey of India (GSI)",
+  "source_portal": "NGDR/Bhu-Chayan",
+  "report_title": "Reconnaissance survey for manganese in Sausar Group of rocks in Jogitola, Tikari and Dongargaon areas, Balaghat district, Madhya Pradesh",
+  "NUID": "49367",
+  "district": "Balaghat",
+  "state": "Madhya Pradesh",
+  "commodity": "Manganese",
+  "extraction_date": "2026-09-11T04:10:29.245231+00:00",
+  "original_source_filename": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+  "coordinate_reference_system": "EPSG:4326",
+  "coordinate_field_names": {
+    "latitude": "Latitude",
+    "longitude": "Longitude"
+  },
+  "total_records_extracted": 172,
+  "valid_records": 170,
+  "suspicious_records": 0,
+  "out_of_study_area_records": 2,
+  "project_aoi_bbox": [
+    80.1,
+    21.7,
+    80.3,
+    21.95
+  ],
+  "project_aoi_record_count": 0,
+  "report_study_boundary_wgs84": {
+    "south": 21.652777777777775,
+    "north": 21.75,
+    "west": 79.62916666666666,
+    "east": 79.74583333333334
+  },
+  "filtering_methodology": "All coordinate records from Annexure I (BRS), II (PTS), III (PCS), and IV (PS) were retained. Coordinates are valid when within the report-declared boundary; valid global coordinates outside it are flagged out_of_study_area and never repaired. MnO values are joined only from parseable Annexure VI-VIII analytical tables.",
+  "limitation": "The GSI report study block lies west of the existing satellite AOI; therefore zero records intersect the project AOI. These are field/exploration evidence, not economic reserves."
+}

@@ -1,0 +1,22 @@
+# API and configuration
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pydantic>=2.9,<3.0
+# FastAPI/Starlette API contract tests
+httpx2>=0.1,<1.0
+
+# Planetary Computer / STAC
+pystac-client>=0.8,<1.0
+planetary-computer>=1.0,<2.0
+
+# Geospatial raster and vector processing
+rasterio>=1.4,<2.0
+geopandas>=1.0,<2.0
+shapely>=2.0,<3.0
+
+# Data, machine learning, and outputs
+numpy>=2.0,<3.0
+pandas>=2.0,<3.0
+scikit-learn>=1.5,<2.0
+matplotlib>=3.9,<4.0
+joblib>=1.4,<2.0

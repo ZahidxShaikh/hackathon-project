@@ -1,0 +1,19 @@
+{
+  "name": "GSI Balaghat manganese study area (NUID 49367)",
+  "crs": "EPSG:4326",
+  "bbox": [
+    79.62416666666667,
+    21.647777777777776,
+    79.75083333333333,
+    21.755
+  ],
+  "report_study_boundary_wgs84": {
+    "west": 79.62916666666666,
+    "south": 21.652777777777775,
+    "east": 79.74583333333334,
+    "north": 21.75
+  },
+  "margin_degrees": 0.005,
+  "derivation": "GSI report study boundary expanded by a 0.005 degree margin; verified against valid GSI samples.",
+  "valid_ground_truth_points_inside": 170
+}

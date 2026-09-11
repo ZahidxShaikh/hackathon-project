@@ -1,0 +1,52 @@
+{
+  "dataset_type": "authoritative_positive_only",
+  "scientific_status": "GSI field/exploration evidence sampled from Sentinel-2 spectral/geological proxies; not a reserve, ore-grade, or economic assessment.",
+  "background_samples": {
+    "included": false,
+    "status": "No unlabeled/background raster pixels were relabeled as confirmed non-manganese."
+  },
+  "source": {
+    "organization": "Geological Survey of India (GSI)",
+    "portal": "NGDR/Bhu-Chayan",
+    "report_title": "Reconnaissance survey for manganese in Sausar Group of rocks in Jogitola, Tikari and Dongargaon areas, Balaghat district, Madhya Pradesh",
+    "NUID": "49367",
+    "ground_truth_path": "C:/Users/admin/Desktop/api/backend/data/ground_truth/manganese_positive.geojson"
+  },
+  "crs": {
+    "point_coordinates": "EPSG:4326",
+    "sampling_raster": "EPSG:32644"
+  },
+  "feature_raster_path": "C:/Users/admin/Desktop/api/backend/data/processed/gsi_49367/S2B_MSIL2A_20260211T050839_R019_T44QLK_20260211T085923_gsi_49367_phase4_features.tif",
+  "feature_columns": [
+    "B02",
+    "B03",
+    "B04",
+    "B08",
+    "B11",
+    "B12",
+    "NDVI",
+    "NDMI",
+    "iron_oxide_proxy",
+    "swir_ratio"
+  ],
+  "label_definition": {
+    "1": "authoritative GSI manganese field/exploration sample",
+    "0": "not present in this positive-only dataset"
+  },
+  "counts": {
+    "total_ground_truth_points": 172,
+    "valid_ground_truth_points": 170,
+    "sampled_training_points": 170,
+    "dropped_points": 0,
+    "mno_available": 159,
+    "mno_missing": 11,
+    "coincident_coordinate_records_retained": 84,
+    "label_counts": {
+      "1": 170,
+      "0": 0
+    }
+  },
+  "dropped_samples": [],
+  "drop_rule": "Only invalid, non-finite, or nodata Phase 4 feature values cause a valid GSI sample to be dropped.",
+  "created_at": "2026-09-11T04:39:59.183885+00:00"
+}

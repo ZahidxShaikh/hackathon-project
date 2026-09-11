@@ -1,0 +1,46 @@
+{
+  "dataset_type": "positive_unlabeled",
+  "random_seed": 42,
+  "feature_columns": [
+    "B02",
+    "B03",
+    "B04",
+    "B08",
+    "B11",
+    "B12",
+    "NDVI",
+    "NDMI",
+    "iron_oxide_proxy",
+    "swir_ratio"
+  ],
+  "feature_raster_path": "C:/Users/admin/Desktop/api/backend/data/processed/gsi_49367/S2B_MSIL2A_20260211T050839_R019_T44QLK_20260211T085923_gsi_49367_phase4_features.tif",
+  "crs": {
+    "geographic": "EPSG:4326",
+    "sampling": "EPSG:32644"
+  },
+  "positive_samples": {
+    "count": 170,
+    "status": "authoritative GSI manganese field/exploration samples",
+    "authoritative_label": 1,
+    "mno_available": 159,
+    "mno_missing": 11
+  },
+  "unlabeled_background": {
+    "count": 1700,
+    "candidate_valid_pixels_after_buffer": 353168,
+    "status": "unlabeled/background only; not confirmed non-manganese and not authoritative label 0",
+    "exclusion_buffer_meters": 300.0,
+    "sampling_ratio_to_positives": 10
+  },
+  "training_target": {
+    "positive": 1,
+    "unlabeled": 0,
+    "meaning": "surrogate target for distinguishing known positives from unlabeled background, not a confirmed negative label"
+  },
+  "limitations": [
+    "Unlabeled background can contain unknown manganese occurrences.",
+    "PU scores are relative prospectivity/ranking signals, not calibrated probability of a confirmed deposit.",
+    "MnO is preserved as metadata and is not a model feature because it is unavailable for some authoritative samples."
+  ],
+  "created_at": "2026-09-11T04:52:45.279549+00:00"
+}

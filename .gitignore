@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment and editor files
+.env
+.env.*
+.vscode/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Generated geospatial and ML outputs (source datasets stay local unless explicitly added)
+backend/data/processed/*
+!backend/data/processed/.gitkeep
+backend/models/*
+!backend/models/.gitkeep
+

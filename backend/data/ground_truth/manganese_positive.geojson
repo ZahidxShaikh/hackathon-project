@@ -1,0 +1,4478 @@
+{
+  "type": "FeatureCollection",
+  "name": "manganese_positive",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.679,
+          21.702
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_1/49367",
+        "sample_type": "BRS",
+        "latitude": 21.702,
+        "longitude": 79.679,
+        "Mn": null,
+        "MnO": 44.9,
+        "location": "Mineralization associated with quartzofeldspathic rock near Chandadoh",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 356.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.657
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_2/49367",
+        "sample_type": "BRS",
+        "latitude": 21.657,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 61.84,
+        "location": "Mn mineralization debris scattered in the area",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.658
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_3/49367",
+        "sample_type": "BRS",
+        "latitude": 21.658,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 0.18,
+        "location": "Lateritic capping developed over schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.637,
+          21.659
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_4/49367",
+        "sample_type": "BRS",
+        "latitude": 21.659,
+        "longitude": 79.637,
+        "Mn": null,
+        "MnO": 3.34,
+        "location": "Lateritic capping developed over schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 334.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.636,
+          21.723
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_5/49367",
+        "sample_type": "BRS",
+        "latitude": 21.723,
+        "longitude": 79.636,
+        "Mn": null,
+        "MnO": 0.81,
+        "location": "Lateritic debris scattered over crystalline limestone",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 369.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.685,
+          21.749
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_6/49367",
+        "sample_type": "BRS",
+        "latitude": 21.749,
+        "longitude": 79.685,
+        "Mn": null,
+        "MnO": 0.16,
+        "location": "Lateritic debris capping over gneissic rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 357.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.636,
+          21.681
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_7/49367",
+        "sample_type": "BRS",
+        "latitude": 21.681,
+        "longitude": 79.636,
+        "Mn": null,
+        "MnO": 11.92,
+        "location": "Mineralization is associated with quartz in the vein form",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.681
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_8/49367",
+        "sample_type": "BRS",
+        "latitude": 21.681,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 11.73,
+        "location": "Mn ore associated with quartzofeldspathic rock in old working Koylari",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.645,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_9/49367",
+        "sample_type": "BRS",
+        "latitude": 21.697,
+        "longitude": 79.645,
+        "Mn": null,
+        "MnO": 15.52,
+        "location": "Mineralization hosted within mica schist in the form of circular lenses",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 349.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.646,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_10/49367",
+        "sample_type": "BRS",
+        "latitude": 21.697,
+        "longitude": 79.646,
+        "Mn": null,
+        "MnO": 20.75,
+        "location": "Mineralization is hosted within uartz mica schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.642,
+          21.675
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_11/49367",
+        "sample_type": "BRS",
+        "latitude": 21.675,
+        "longitude": 79.642,
+        "Mn": null,
+        "MnO": 0.37,
+        "location": "Lateritic capping developed over schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_12/49367",
+        "sample_type": "BRS",
+        "latitude": 21.674,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 45.98,
+        "location": "Mineralization is associated with yellowish coloured material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_13/49367",
+        "sample_type": "BRS",
+        "latitude": 21.674,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 42.59,
+        "location": "Mineralization hosted within pegmatite vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.636,
+          21.67
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_14/49367",
+        "sample_type": "BRS",
+        "latitude": 21.67,
+        "longitude": 79.636,
+        "Mn": null,
+        "MnO": 0.08,
+        "location": "Mineralization suspected within quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.64,
+          21.672
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_15/49367",
+        "sample_type": "BRS",
+        "latitude": 21.672,
+        "longitude": 79.64,
+        "Mn": null,
+        "MnO": 25.35,
+        "location": "Mineralization associated with quartzofeldspathic rock in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.633,
+          21.698
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_16/49367",
+        "sample_type": "BRS",
+        "latitude": 21.698,
+        "longitude": 79.633,
+        "Mn": null,
+        "MnO": 30.86,
+        "location": "Mineralization associated with quartzofeldspathic rock in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.631,
+          21.699
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_17/49367",
+        "sample_type": "BRS",
+        "latitude": 21.699,
+        "longitude": 79.631,
+        "Mn": null,
+        "MnO": 29.92,
+        "location": "Mineralization associated with quartzofeldspathic rock in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 353.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.642,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_18/49367",
+        "sample_type": "BRS",
+        "latitude": 21.674,
+        "longitude": 79.642,
+        "Mn": null,
+        "MnO": 0.49,
+        "location": "Mineralization associated light yellow color material hosted within schistose rock in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.633,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_19/49367",
+        "sample_type": "BRS",
+        "latitude": 21.665,
+        "longitude": 79.633,
+        "Mn": null,
+        "MnO": 0.22,
+        "location": "Amphibolite pyroxene rock sample collected",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 336.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_20/49367",
+        "sample_type": "BRS",
+        "latitude": 21.665,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 16.36,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_21/49367",
+        "sample_type": "BRS",
+        "latitude": 21.665,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 27.28,
+        "location": "Mineralization associated quartz vein in the old working pits",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.637,
+          21.662
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_22/49367",
+        "sample_type": "BRS",
+        "latitude": 21.662,
+        "longitude": 79.637,
+        "Mn": null,
+        "MnO": 8.88,
+        "location": "Mineralization associated quartz vein with garnet",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_23/49367",
+        "sample_type": "BRS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 0.52,
+        "location": "Ferrogenus rock sulfide mineralization sample",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 336.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_24/49367",
+        "sample_type": "BRS",
+        "latitude": 21.665,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 26.45,
+        "location": "Mineralization associated quartzo- feldspathic material, granular in nature in shallow oldworking pit",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.653,
+          21.673
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_25/49367",
+        "sample_type": "BRS",
+        "latitude": 21.673,
+        "longitude": 79.653,
+        "Mn": null,
+        "MnO": 9.45,
+        "location": "Mineralization observed as leteritic debris",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 330.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.65,
+          21.673
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_26/49367",
+        "sample_type": "BRS",
+        "latitude": 21.673,
+        "longitude": 79.65,
+        "Mn": null,
+        "MnO": 26.0,
+        "location": "Mineralization associated quartz vein and yellowish color feldspathic material in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 333.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.632,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_27/49367",
+        "sample_type": "BRS",
+        "latitude": 21.665,
+        "longitude": 79.632,
+        "Mn": null,
+        "MnO": 15.68,
+        "location": "Mineralization associated light pink color feldspathic material in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.671
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_28/49367",
+        "sample_type": "BRS",
+        "latitude": 21.671,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 0.87,
+        "location": "Mineralization observed as leteritic debris over the country rock of biotite gneiss",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.65,
+          21.672
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_29/49367",
+        "sample_type": "BRS",
+        "latitude": 21.672,
+        "longitude": 79.65,
+        "Mn": null,
+        "MnO": 4.32,
+        "location": "Mineralization observed as leteritic debris over the country rock of biotite gneiss",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 119,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 333.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.666,
+          21.679
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_30/49367",
+        "sample_type": "BRS",
+        "latitude": 21.679,
+        "longitude": 79.666,
+        "Mn": null,
+        "MnO": 53.29,
+        "location": "Mineralization observed as leteritic debris as hard compact ore",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.682
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_31/49367",
+        "sample_type": "BRS",
+        "latitude": 21.682,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 8.88,
+        "location": "Mineralization associated with quartz and pink color material in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.683
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_32/49367",
+        "sample_type": "BRS",
+        "latitude": 21.683,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 17.36,
+        "location": "Mineralization associated with light pink gonditic rock with in fractures in oldworking",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.633,
+          21.698
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_33/49367",
+        "sample_type": "BRS",
+        "latitude": 21.698,
+        "longitude": 79.633,
+        "Mn": null,
+        "MnO": 17.37,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.66,
+          21.693
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_34/49367",
+        "sample_type": "BRS",
+        "latitude": 21.693,
+        "longitude": 79.66,
+        "Mn": null,
+        "MnO": 35.31,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 351.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.663,
+          21.698
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_35/49367",
+        "sample_type": "BRS",
+        "latitude": 21.698,
+        "longitude": 79.663,
+        "Mn": null,
+        "MnO": 14.81,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.665,
+          21.699
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_36/49367",
+        "sample_type": "BRS",
+        "latitude": 21.699,
+        "longitude": 79.665,
+        "Mn": null,
+        "MnO": 32.57,
+        "location": "Mineralization associated quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.677,
+          21.683
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_37/49367",
+        "sample_type": "BRS",
+        "latitude": 21.683,
+        "longitude": 79.677,
+        "Mn": null,
+        "MnO": 15.52,
+        "location": "Mineralization associated quartz vein hosted within fine grained qtz mica , metasedimentary",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.677,
+          21.683
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_38/49367",
+        "sample_type": "BRS",
+        "latitude": 21.683,
+        "longitude": 79.677,
+        "Mn": null,
+        "MnO": 11.87,
+        "location": "Mineralization associated quartz vein hosted within fine grained qtz mica , metasedimentary",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.678,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_39/49367",
+        "sample_type": "BRS",
+        "latitude": 21.684,
+        "longitude": 79.678,
+        "Mn": null,
+        "MnO": 50.81,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.678,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_40/49367",
+        "sample_type": "BRS",
+        "latitude": 21.684,
+        "longitude": 79.678,
+        "Mn": null,
+        "MnO": 12.13,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.674,
+          21.682
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_41/49367",
+        "sample_type": "BRS",
+        "latitude": 21.682,
+        "longitude": 79.674,
+        "Mn": null,
+        "MnO": 5.69,
+        "location": "Mineralization associated quartz in pegmatite veins",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.681,
+          21.669
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_42/49367",
+        "sample_type": "BRS",
+        "latitude": 21.669,
+        "longitude": 79.681,
+        "Mn": null,
+        "MnO": 23.13,
+        "location": "Mineralization associated quartz and brownish color rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.684,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_43/49367",
+        "sample_type": "BRS",
+        "latitude": 21.687,
+        "longitude": 79.684,
+        "Mn": null,
+        "MnO": 22.87,
+        "location": "Mineralization associated garnet bearing quartz rich rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 339.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.686,
+          21.688
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_44/49367",
+        "sample_type": "BRS",
+        "latitude": 21.688,
+        "longitude": 79.686,
+        "Mn": null,
+        "MnO": 13.89,
+        "location": "Mineralization associated quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 325.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.685,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_45/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.685,
+        "Mn": null,
+        "MnO": 11.63,
+        "location": "Mineralization associated quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 325.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.688,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_46/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.688,
+        "Mn": null,
+        "MnO": 28.47,
+        "location": "Mineralization is intermixed woth quartz and yellow color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 334.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.646,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_47/49367",
+        "sample_type": "BRS",
+        "latitude": 21.687,
+        "longitude": 79.646,
+        "Mn": null,
+        "MnO": 14.24,
+        "location": "Mineralization is intermixed woth quartz and yellow color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 348.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.646,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_48/49367",
+        "sample_type": "BRS",
+        "latitude": 21.687,
+        "longitude": 79.646,
+        "Mn": null,
+        "MnO": 15.69,
+        "location": "Mineralization associated quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.696
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_49/49367",
+        "sample_type": "BRS",
+        "latitude": 21.696,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 21.53,
+        "location": "Mineralization associated quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.692,
+          21.691
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_50/49367",
+        "sample_type": "BRS",
+        "latitude": 21.691,
+        "longitude": 79.692,
+        "Mn": null,
+        "MnO": 19.61,
+        "location": "Mineralization is intermixed woth quartz and yellow color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 339.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.649,
+          21.71
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_51/49367",
+        "sample_type": "BRS",
+        "latitude": 21.71,
+        "longitude": 79.649,
+        "Mn": null,
+        "MnO": 30.4,
+        "location": "Mineralization associated quartz and pink feldspar",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.727,
+          21.704
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_52/49367",
+        "sample_type": "BRS",
+        "latitude": 21.704,
+        "longitude": 79.727,
+        "Mn": null,
+        "MnO": 16.75,
+        "location": "Mineralization associated quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73,
+          21.702
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_53/49367",
+        "sample_type": "BRS",
+        "latitude": 21.702,
+        "longitude": 79.73,
+        "Mn": null,
+        "MnO": 12.48,
+        "location": "Mineralization associated quartz vein, light weight",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.74,
+          21.717
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_54/49367",
+        "sample_type": "BRS",
+        "latitude": 21.717,
+        "longitude": 79.74,
+        "Mn": null,
+        "MnO": 19.63,
+        "location": "Mineralization associated with garnet bearing quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 349.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.739,
+          21.716
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_55/49367",
+        "sample_type": "BRS",
+        "latitude": 21.716,
+        "longitude": 79.739,
+        "Mn": null,
+        "MnO": 17.25,
+        "location": "Mineralization associated with quartz vein hosted in Quartz mica schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.739,
+          21.716
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_56/49367",
+        "sample_type": "BRS",
+        "latitude": 21.716,
+        "longitude": 79.739,
+        "Mn": null,
+        "MnO": 14.7,
+        "location": "Mineralization associated with quartz vein hosted in Quartz mica schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.737,
+          21.714
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_57/49367",
+        "sample_type": "BRS",
+        "latitude": 21.714,
+        "longitude": 79.737,
+        "Mn": null,
+        "MnO": 6.22,
+        "location": "Mineralization associated with pegmatite vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 353.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.736,
+          21.712
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_58/49367",
+        "sample_type": "BRS",
+        "latitude": 21.712,
+        "longitude": 79.736,
+        "Mn": null,
+        "MnO": 32.62,
+        "location": "Mineralization associated with pegmatite vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.732,
+          21.72
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_59/49367",
+        "sample_type": "BRS",
+        "latitude": 21.72,
+        "longitude": 79.732,
+        "Mn": null,
+        "MnO": 0.15,
+        "location": "Laterite debris over the quartz mica schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 120,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 348.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.689,
+          21.686
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_60/49367",
+        "sample_type": "BRS",
+        "latitude": 21.686,
+        "longitude": 79.689,
+        "Mn": null,
+        "MnO": 34.74,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 334.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691,
+          21.691
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_61/49367",
+        "sample_type": "BRS",
+        "latitude": 21.691,
+        "longitude": 79.691,
+        "Mn": null,
+        "MnO": 20.04,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.702,
+          21.709
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_62/49367",
+        "sample_type": "BRS",
+        "latitude": 21.709,
+        "longitude": 79.702,
+        "Mn": null,
+        "MnO": 27.27,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.692,
+          21.703
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_63/49367",
+        "sample_type": "BRS",
+        "latitude": 21.703,
+        "longitude": 79.692,
+        "Mn": null,
+        "MnO": 17.46,
+        "location": "Mineralization associated with pegmatite vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.69,
+          21.704
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_64/49367",
+        "sample_type": "BRS",
+        "latitude": 21.704,
+        "longitude": 79.69,
+        "Mn": null,
+        "MnO": 25.29,
+        "location": "Mineralization associated with garnet bearing quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.689,
+          21.703
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_65/49367",
+        "sample_type": "BRS",
+        "latitude": 21.703,
+        "longitude": 79.689,
+        "Mn": null,
+        "MnO": 0.43,
+        "location": "Mineralization associated with garnet bearing bedded quartzite",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.703,
+          21.708
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_66/49367",
+        "sample_type": "BRS",
+        "latitude": 21.708,
+        "longitude": 79.703,
+        "Mn": null,
+        "MnO": 17.83,
+        "location": "Mineralization is intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.662,
+          21.707
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_67/49367",
+        "sample_type": "BRS",
+        "latitude": 21.707,
+        "longitude": 79.662,
+        "Mn": null,
+        "MnO": 47.3,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.658,
+          21.69
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_68/49367",
+        "sample_type": "BRS",
+        "latitude": 21.69,
+        "longitude": 79.658,
+        "Mn": null,
+        "MnO": 11.8,
+        "location": "Mineralization is intermixed with quartz and pegmatite",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.682,
+          21.73
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_69/49367",
+        "sample_type": "BRS",
+        "latitude": 21.73,
+        "longitude": 79.682,
+        "Mn": null,
+        "MnO": 1.41,
+        "location": "Mineralization is associated with quartz mica schist, with gonditic rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.683,
+          21.731
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_70/49367",
+        "sample_type": "BRS",
+        "latitude": 21.731,
+        "longitude": 79.683,
+        "Mn": null,
+        "MnO": 20.22,
+        "location": "Mineralization associated with quartz and pink color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.695
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_71/49367",
+        "sample_type": "BRS",
+        "latitude": 21.695,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 11.52,
+        "location": "Mineralization is associated with granular pink color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.649,
+          21.695
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_72/49367",
+        "sample_type": "BRS",
+        "latitude": 21.695,
+        "longitude": 79.649,
+        "Mn": null,
+        "MnO": 9.66,
+        "location": "Mineralization associated with quartz, garnet nad pink color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 353.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.647,
+          21.696
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_73/49367",
+        "sample_type": "BRS",
+        "latitude": 21.696,
+        "longitude": 79.647,
+        "Mn": null,
+        "MnO": 10.25,
+        "location": "Mineralization is intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.65,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_74/49367",
+        "sample_type": "BRS",
+        "latitude": 21.674,
+        "longitude": 79.65,
+        "Mn": null,
+        "MnO": 13.71,
+        "location": "Mineralization associated with pink color fine grained clastic rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7,
+          21.712
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_75/49367",
+        "sample_type": "BRS",
+        "latitude": 21.712,
+        "longitude": 79.7,
+        "Mn": null,
+        "MnO": 0.51,
+        "location": "Mineralization associated with schist hosted garnet bearing quartzoes rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.641,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_76/49367",
+        "sample_type": "BRS",
+        "latitude": 21.674,
+        "longitude": 79.641,
+        "Mn": null,
+        "MnO": 4.27,
+        "location": "Mineralization is with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.701,
+          21.717
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_77/49367",
+        "sample_type": "BRS",
+        "latitude": 21.717,
+        "longitude": 79.701,
+        "Mn": null,
+        "MnO": 33.09,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.703,
+          21.71
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_78/49367",
+        "sample_type": "BRS",
+        "latitude": 21.71,
+        "longitude": 79.703,
+        "Mn": null,
+        "MnO": 18.18,
+        "location": "Mineralization is intermixed with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 353.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7,
+          21.716
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_79/49367",
+        "sample_type": "BRS",
+        "latitude": 21.716,
+        "longitude": 79.7,
+        "Mn": null,
+        "MnO": 13.82,
+        "location": "Mineralization is intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 349.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.655,
+          21.706
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_80/49367",
+        "sample_type": "BRS",
+        "latitude": 21.706,
+        "longitude": 79.655,
+        "Mn": null,
+        "MnO": 8.51,
+        "location": "Mineralization associated with quartz vein hosted in Quartz mica schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.65,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_81/49367",
+        "sample_type": "BRS",
+        "latitude": 21.687,
+        "longitude": 79.65,
+        "Mn": null,
+        "MnO": 0.65,
+        "location": "Mineralization is asociated with garnet, quartz and greenish color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.651,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_82/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.651,
+        "Mn": null,
+        "MnO": 21.78,
+        "location": "Mineralization associated with garnet and quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.651,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_83/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.651,
+        "Mn": null,
+        "MnO": 12.48,
+        "location": "Mineralization associated with garnet, quartz and yellow colr material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.651,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_84/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.651,
+        "Mn": null,
+        "MnO": 14.58,
+        "location": "Mineralization associated with granular intermixed with quartz and reddish pink color maetrial",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.651,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_85/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.651,
+        "Mn": null,
+        "MnO": 14.68,
+        "location": "Mineralization associated with granular intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.651,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_86/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.651,
+        "Mn": null,
+        "MnO": 21.53,
+        "location": "Mineralization associated with granular intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.652,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_87/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.652,
+        "Mn": null,
+        "MnO": 22.8,
+        "location": "Mineralization associated with garnet rich pink to reddish granular rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.654,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_88/49367",
+        "sample_type": "BRS",
+        "latitude": 21.689,
+        "longitude": 79.654,
+        "Mn": null,
+        "MnO": 25.68,
+        "location": "Mineralization is intermixed with quartz and pink color maetrial",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.69
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_89/49367",
+        "sample_type": "BRS",
+        "latitude": 21.69,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 21.88,
+        "location": "Mineralization is dark color, heavy and granular in nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 121,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 348.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.662,
+          21.691
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_90/49367",
+        "sample_type": "BRS",
+        "latitude": 21.691,
+        "longitude": 79.662,
+        "Mn": null,
+        "MnO": 32.24,
+        "location": "Mineralization is intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.696
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_91/49367",
+        "sample_type": "BRS",
+        "latitude": 21.696,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 1.54,
+        "location": "Mineralization is suspected to have in lateritic capping over schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.688
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_92/49367",
+        "sample_type": "BRS",
+        "latitude": 21.688,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 9.87,
+        "location": "Mineralization is intermixed with quartz , dark to light pinkish color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.649,
+          21.688
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_93/49367",
+        "sample_type": "BRS",
+        "latitude": 21.688,
+        "longitude": 79.649,
+        "Mn": null,
+        "MnO": 42.74,
+        "location": "Mineralization associated with garnet bearing quartzofeldspathic material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.643,
+          21.698
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_94/49367",
+        "sample_type": "BRS",
+        "latitude": 21.698,
+        "longitude": 79.643,
+        "Mn": null,
+        "MnO": 24.17,
+        "location": "Mineralization is intermixed with quartz , dark to light pinkish color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691,
+          21.682
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_95/49367",
+        "sample_type": "BRS",
+        "latitude": 21.682,
+        "longitude": 79.691,
+        "Mn": null,
+        "MnO": 28.61,
+        "location": "Mineralization is intermixed with quartz and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 331.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.684,
+          21.685
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_96/49367",
+        "sample_type": "BRS",
+        "latitude": 21.685,
+        "longitude": 79.684,
+        "Mn": null,
+        "MnO": 17.48,
+        "location": "Mineralization is associated with quartz and yellow color material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.715,
+          21.736
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_97/49367",
+        "sample_type": "BRS",
+        "latitude": 21.736,
+        "longitude": 79.715,
+        "Mn": null,
+        "MnO": 1.47,
+        "location": "Mineralization is suspected to have in lateritic capping over schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 355.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.672
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_98/49367",
+        "sample_type": "BRS",
+        "latitude": 21.672,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 2.07,
+        "location": "Mineralization is suspected to have in assocition with amphibolite rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 334.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.639,
+          21.668
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_99/49367",
+        "sample_type": "BRS",
+        "latitude": 21.668,
+        "longitude": 79.639,
+        "Mn": null,
+        "MnO": 14.56,
+        "location": "Mineralization is associated with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 333.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.672,
+          21.679
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/BRS_100/49367",
+        "sample_type": "BRS",
+        "latitude": 21.679,
+        "longitude": 79.672,
+        "Mn": null,
+        "MnO": 27.15,
+        "location": "Mineralization associated with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 122,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.641,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_01/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.641,
+        "Mn": null,
+        "MnO": 2.69,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.641,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_02/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.641,
+        "Mn": null,
+        "MnO": 5.93,
+        "location": "Mineralization associated with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.641,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_03/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.641,
+        "Mn": null,
+        "MnO": 1.97,
+        "location": "Mineralization in the form of fragments with country rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.641,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_04/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.641,
+        "Mn": null,
+        "MnO": 3.18,
+        "location": "Mineralization in thin bands with country rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_05/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 0.38,
+        "location": "Schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_06/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 8.17,
+        "location": "Minearlization with quartz vein",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_07/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 27.7,
+        "location": "Mineralization associated with pegmatite veins and schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.644,
+          21.674
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_08/49367",
+        "sample_type": "PTS",
+        "latitude": 21.674,
+        "longitude": 79.644,
+        "Mn": null,
+        "MnO": 12.43,
+        "location": "Pegmatite vein in schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_09/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 0.62,
+        "location": "Mineralization associated with quartz and garnet and some ferro-genous material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_10/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 1.71,
+        "location": "Mineralization associated with quartz and yellow colour material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_11/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 4.55,
+        "location": "Mineralization associated with garnet bearing quartz and dark colour material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_12/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 8.19,
+        "location": "Mineralization with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_13/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 1.49,
+        "location": "Mineralization as small lens intermixed with schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_14/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": 2.45,
+        "location": "Mineralization as small lens intermixed with schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_15/49367",
+        "sample_type": "PTS",
+        "latitude": 21.665,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 15.69,
+        "location": "Mineralization associated with quartzose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_16/49367",
+        "sample_type": "PTS",
+        "latitude": 21.665,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 13.5,
+        "location": "Mineralization intermixed with schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.632,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_17/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.632,
+        "Mn": null,
+        "MnO": 41.7,
+        "location": "Mineralization is associated with quartz and pink color feldspathic material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.632,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_18/49367",
+        "sample_type": "PTS",
+        "latitude": 21.666,
+        "longitude": 79.632,
+        "Mn": null,
+        "MnO": 28.79,
+        "location": "Mineralization is associated with quartz and pink color feldspathic material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.632,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_19/49367",
+        "sample_type": "PTS",
+        "latitude": 21.665,
+        "longitude": 79.632,
+        "Mn": null,
+        "MnO": 26.15,
+        "location": "Mineralization seen in fragments with granitic rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.632,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_20/49367",
+        "sample_type": "PTS",
+        "latitude": 21.665,
+        "longitude": 79.632,
+        "Mn": null,
+        "MnO": 25.7,
+        "location": "Mineralization with quartz and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.632,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_21/49367",
+        "sample_type": "PTS",
+        "latitude": 21.665,
+        "longitude": 79.632,
+        "Mn": null,
+        "MnO": 50.37,
+        "location": "Mineralization with dark color material granular in nature, with pink color rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 341.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.659,
+          21.693
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_22/49367",
+        "sample_type": "PTS",
+        "latitude": 21.693,
+        "longitude": 79.659,
+        "Mn": null,
+        "MnO": 33.71,
+        "location": "Mineralization with quartz, garnet and dark color rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.659,
+          21.693
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_23/49367",
+        "sample_type": "PTS",
+        "latitude": 21.693,
+        "longitude": 79.659,
+        "Mn": null,
+        "MnO": 12.19,
+        "location": "Mineralization with quartz and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.659,
+          21.693
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_24/49367",
+        "sample_type": "PTS",
+        "latitude": 21.693,
+        "longitude": 79.659,
+        "Mn": null,
+        "MnO": 6.89,
+        "location": "Mineralization intermixed with schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.659,
+          21.693
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_25/49367",
+        "sample_type": "PTS",
+        "latitude": 21.693,
+        "longitude": 79.659,
+        "Mn": null,
+        "MnO": 9.72,
+        "location": "Manganese with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 123,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.659,
+          21.693
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_26/49367",
+        "sample_type": "PTS",
+        "latitude": 21.693,
+        "longitude": 79.659,
+        "Mn": null,
+        "MnO": 1.98,
+        "location": "Mineralization intermixed with schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.672,
+          21.68
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_27/49367",
+        "sample_type": "PTS",
+        "latitude": 21.68,
+        "longitude": 79.672,
+        "Mn": null,
+        "MnO": 0.23,
+        "location": "Mineralization with quartz with in weathered granitic rock.",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 351.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.703,
+          21.708
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_28/49367",
+        "sample_type": "PTS",
+        "latitude": 21.708,
+        "longitude": 79.703,
+        "Mn": null,
+        "MnO": 6.79,
+        "location": "Mineralization with quartz vein in schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.703,
+          21.708
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_29/49367",
+        "sample_type": "PTS",
+        "latitude": 21.708,
+        "longitude": 79.703,
+        "Mn": null,
+        "MnO": 9.66,
+        "location": "Mineralization with quartz vein in schistose rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.703,
+          21.708
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_30/49367",
+        "sample_type": "PTS",
+        "latitude": 21.708,
+        "longitude": 79.703,
+        "Mn": null,
+        "MnO": 9.8,
+        "location": "Mineralization with quartz vein and pegmatite",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_31/49367",
+        "sample_type": "PTS",
+        "latitude": 21.687,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 30.85,
+        "location": "Mineralization with garnet and quartz vein in granular nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_32/49367",
+        "sample_type": "PTS",
+        "latitude": 21.687,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 18.66,
+        "location": "Mineralization with garnet and quartz vein in granular nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_33/49367",
+        "sample_type": "PTS",
+        "latitude": 21.687,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 25.33,
+        "location": "Mineralization with garnet and quartz vein in granular nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_34/49367",
+        "sample_type": "PTS",
+        "latitude": 21.687,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 24.88,
+        "location": "Mineralization with garnet and quartz vein in granular nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.648,
+          21.687
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_35/49367",
+        "sample_type": "PTS",
+        "latitude": 21.687,
+        "longitude": 79.648,
+        "Mn": null,
+        "MnO": 31.96,
+        "location": "Mineralization with garnet and quartz vein in granular nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_36/49367",
+        "sample_type": "PTS",
+        "latitude": 21.697,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 31.46,
+        "location": "Mineralization intermixed with quartz and reddish and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_37/49367",
+        "sample_type": "PTS",
+        "latitude": 21.697,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 25.42,
+        "location": "Mineralization intermixed with quartz and reddish and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_38/49367",
+        "sample_type": "PTS",
+        "latitude": 21.697,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 36.74,
+        "location": "Mineralization intermixed with quartz and reddish and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_39/49367",
+        "sample_type": "PTS",
+        "latitude": 21.697,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 29.84,
+        "location": "Mineralization intermixed with quartz and reddish and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_40/49367",
+        "sample_type": "PTS",
+        "latitude": 21.697,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 18.1,
+        "location": "Matelic lusture heavy inter mixed with quartz and garnet",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.635,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_41/49367",
+        "sample_type": "PTS",
+        "latitude": 21.697,
+        "longitude": 79.635,
+        "Mn": null,
+        "MnO": 17.36,
+        "location": "Mineralization with pinkish color rock intruded by pegatite",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_42/49367",
+        "sample_type": "PTS",
+        "latitude": 21.689,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 10.05,
+        "location": "Mineralization intermixed with quartz and yellowish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_43/49367",
+        "sample_type": "PTS",
+        "latitude": 21.689,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 11.27,
+        "location": "Mineralization is heavy granular mixed with quartz and garnet",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_44/49367",
+        "sample_type": "PTS",
+        "latitude": 21.689,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 11.92,
+        "location": "Granular in nature intermixed with quartz",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_45/49367",
+        "sample_type": "PTS",
+        "latitude": 21.689,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 5.46,
+        "location": "Granular in nature intermixed with quartz and pinkish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.689
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_46/49367",
+        "sample_type": "PTS",
+        "latitude": 21.689,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 26.08,
+        "location": "Granular in nature intermixed with quartz and pinkish material",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_47/49367",
+        "sample_type": "PTS",
+        "latitude": 21.684,
+        "longitude": 79.691,
+        "Mn": null,
+        "MnO": 13.2,
+        "location": "Mineralization with dark color material in schistose rock with Mn ore debries",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_48/49367",
+        "sample_type": "PTS",
+        "latitude": 21.684,
+        "longitude": 79.691,
+        "Mn": null,
+        "MnO": 12.04,
+        "location": "Mineralization with dark color material in schistose rock with Mn ore debries",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_49/49367",
+        "sample_type": "PTS",
+        "latitude": 21.684,
+        "longitude": 79.691,
+        "Mn": null,
+        "MnO": 2.87,
+        "location": "Mineralization with dark color material in schistose rock with Mn ore debries",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PTS_50/49367",
+        "sample_type": "PTS",
+        "latitude": 21.684,
+        "longitude": 79.691,
+        "Mn": null,
+        "MnO": 3.22,
+        "location": "Mineralization with dark color material in schistose rock with Mn ore debries",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 124,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.636,
+          21.681
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_01/49367",
+        "sample_type": "PCS",
+        "latitude": 21.681,
+        "longitude": 79.636,
+        "Mn": null,
+        "MnO": 3.15,
+        "location": "Schistose rock hosting mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.681
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_02/49367",
+        "sample_type": "PCS",
+        "latitude": 21.681,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 0.34,
+        "location": "Biotite gneiss without mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.646,
+          21.697
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_03/49367",
+        "sample_type": "PCS",
+        "latitude": 21.697,
+        "longitude": 79.646,
+        "Mn": null,
+        "MnO": 1.37,
+        "location": "Mica schist rock hosting mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.236,
+          21.678
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_04/49367",
+        "sample_type": "PCS",
+        "latitude": 21.678,
+        "longitude": 79.236,
+        "Mn": null,
+        "MnO": 0.61,
+        "location": "carbonate rich rock with garnet and quartz",
+        "validation_status": "out_of_study_area",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.63,
+          21.667
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_05/49367",
+        "sample_type": "PCS",
+        "latitude": 21.667,
+        "longitude": 79.63,
+        "Mn": null,
+        "MnO": 0.53,
+        "location": "Garnet bearing quartz mica schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 339.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.631,
+          21.666
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_06/49367",
+        "sample_type": "PCS",
+        "latitude": 21.666,
+        "longitude": 79.631,
+        "Mn": null,
+        "MnO": 17.48,
+        "location": "Garnet rich rock with mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.652,
+          21.69
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_07/49367",
+        "sample_type": "PCS",
+        "latitude": 21.69,
+        "longitude": 79.652,
+        "Mn": null,
+        "MnO": 0.61,
+        "location": "Reddiesh pink rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.655,
+          21.715
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_08/49367",
+        "sample_type": "PCS",
+        "latitude": 21.715,
+        "longitude": 79.655,
+        "Mn": null,
+        "MnO": 0.09,
+        "location": "White to dull white color rock crystaline in nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 344.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.657,
+          21.676
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_09/49367",
+        "sample_type": "PCS",
+        "latitude": 21.676,
+        "longitude": 79.657,
+        "Mn": null,
+        "MnO": 0.18,
+        "location": "Light to khakee green color Qtz carbonate rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.634,
+          21.742
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2024/PCS_10/49367",
+        "sample_type": "PCS",
+        "latitude": 21.742,
+        "longitude": 79.634,
+        "Mn": null,
+        "MnO": 0.12,
+        "location": "Pink to white carbonate rock",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.678,
+          21.701
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_1/46856",
+        "sample_type": "PS",
+        "latitude": 21.701,
+        "longitude": 79.678,
+        "Mn": null,
+        "MnO": null,
+        "location": "Mineralization associated with quartzofeldspathic rock hosted within schist",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.649,
+          21.71
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_2/49367",
+        "sample_type": "PS",
+        "latitude": 21.71,
+        "longitude": 79.649,
+        "Mn": null,
+        "MnO": null,
+        "location": "Mineralization associated with quartz and light pinkish feldspar",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.706
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_3/49367",
+        "sample_type": "PS",
+        "latitude": 21.706,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": null,
+        "location": "Mineralization associated with quartz vein along fracture",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.682,
+          21.729
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_4/49367",
+        "sample_type": "PS",
+        "latitude": 21.729,
+        "longitude": 79.682,
+        "Mn": null,
+        "MnO": null,
+        "location": "Minerlization is intermixed with quartzpfeldspathic rock yellowish coloured",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.633,
+          21.357
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_5/49367",
+        "sample_type": "PS",
+        "latitude": 21.357,
+        "longitude": 79.633,
+        "Mn": null,
+        "MnO": null,
+        "location": "High grade manganese debris scattered in schistose rock",
+        "validation_status": "out_of_study_area",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 338.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.703,
+          21.738
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_6/49367",
+        "sample_type": "PS",
+        "latitude": 21.738,
+        "longitude": 79.703,
+        "Mn": null,
+        "MnO": null,
+        "location": "Quartz vein comprising quartz and some greenish coloured mineral",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 351.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.638,
+          21.665
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_7/49367",
+        "sample_type": "PS",
+        "latitude": 21.665,
+        "longitude": 79.638,
+        "Mn": null,
+        "MnO": null,
+        "location": "Garnet and quartz rich greenish rock, gondite??",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 332.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.678,
+          21.684
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_8/49367",
+        "sample_type": "PS",
+        "latitude": 21.684,
+        "longitude": 79.678,
+        "Mn": null,
+        "MnO": null,
+        "location": "Garnet rich manganese mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.74,
+          21.717
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_9/49367",
+        "sample_type": "PS",
+        "latitude": 21.717,
+        "longitude": 79.74,
+        "Mn": null,
+        "MnO": null,
+        "location": "Banded manganese mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 349.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.692,
+          21.703
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_10/49367",
+        "sample_type": "PS",
+        "latitude": 21.703,
+        "longitude": 79.692,
+        "Mn": null,
+        "MnO": null,
+        "location": "Quartz-mica-schist sheared in nature",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.69,
+          21.703
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_11/49367",
+        "sample_type": "PS",
+        "latitude": 21.703,
+        "longitude": 79.69,
+        "Mn": null,
+        "MnO": null,
+        "location": "Garnet and quartz rich greenish rock, gondite??",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.646,
+          21.696
+        ]
+      },
+      "properties": {
+        "sample_id": "ME/JBP/2023/PS_12/49367",
+        "sample_type": "PS",
+        "latitude": 21.696,
+        "longitude": 79.646,
+        "Mn": null,
+        "MnO": null,
+        "location": "Remobilized Mn ore, Quartz+garnet and Mn mineralization",
+        "validation_status": "valid",
+        "source_report": "20260724162936.935_CR_Final_Report_49367_2024_25_JBP.pdf",
+        "page": 125,
+        "NUID": "49367",
+        "exploration_stage": "G4",
+        "commodity": "Manganese",
+        "elevation_m": 346.0
+      }
+    }
+  ]
+}

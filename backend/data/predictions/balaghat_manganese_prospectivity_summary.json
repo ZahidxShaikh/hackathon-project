@@ -1,0 +1,56 @@
+{
+  "output_type": "Manganese prospectivity based on Sentinel-2 spectral proxies and authoritative GSI manganese occurrences using a positive-unlabeled Random Forest ranking model.",
+  "score_interpretation": "Relative positive-vs-unlabeled ranking score. It is not a calibrated probability of manganese occurrence.",
+  "feature_raster": "S2B_MSIL2A_20260211T050839_R019_T44QLK_20260211T085923_gsi_49367_phase4_features.tif",
+  "model": "manganese_pu_model.joblib",
+  "crs": "EPSG:32644",
+  "valid_pixel_count": 395340,
+  "nodata_pixel_count": 0,
+  "score_statistics": {
+    "minimum": 0.0,
+    "maximum": 0.9970043301582336,
+    "mean": 0.08796502649784088,
+    "median": 0.04553411900997162
+  },
+  "classification": {
+    "method": "valid-pixel score quintiles (20th, 40th, 60th, 80th percentiles)",
+    "limitation": "Display-ranking classes are data-driven and are not geological concentration thresholds.",
+    "classes": [
+      {
+        "class": "Very Low",
+        "score_lower": 0.0,
+        "score_upper": 0.012273048795759679,
+        "pixel_count": 79068
+      },
+      {
+        "class": "Low",
+        "score_lower": 0.012273048795759679,
+        "score_upper": 0.031069806218147283,
+        "pixel_count": 79068
+      },
+      {
+        "class": "Moderate",
+        "score_lower": 0.031069806218147283,
+        "score_upper": 0.06605601459741592,
+        "pixel_count": 79068
+      },
+      {
+        "class": "High",
+        "score_lower": 0.06605601459741592,
+        "score_upper": 0.14438374638557439,
+        "pixel_count": 79068
+      },
+      {
+        "class": "Very High",
+        "score_lower": 0.14438374638557439,
+        "score_upper": 0.9970043301582336,
+        "pixel_count": 79068
+      }
+    ]
+  },
+  "limitations": [
+    "Unlabeled background can include unknown manganese occurrences.",
+    "The ranking is not confirmation of a manganese deposit, reserve, ore grade, tonnage, economic viability, or geological interpretation.",
+    "Spatial PU metrics are surrogate positive-vs-unlabeled measures and do not calibrate occurrence probability."
+  ]
+}
